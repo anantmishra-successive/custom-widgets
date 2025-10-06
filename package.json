@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
  "scripts": {
-  "build": "cd client && npm install && npm install cross-env --save-dev && npm run build:prod",
-  "start": "cd server && npm install && node ./src/server.js --http_only"
+"build": "cd client && npm install && npx cross-env NODE_ENV=production webpack --mode production",
+"start": "cd server && npm install && node ./src/server.js --http_only"
 },
   "engines": {
     "node": ">=18"
