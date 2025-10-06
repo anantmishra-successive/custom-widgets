@@ -1,0 +1,5 @@
+{
+  "disconnect": "Отключиться от переменной",
+  "variableNode": "Узел переменной",
+  "variableValue": "Значение: ${val}"
+}

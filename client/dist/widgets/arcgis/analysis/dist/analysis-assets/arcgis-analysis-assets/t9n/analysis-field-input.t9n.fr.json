@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Impossible de charger les champs.",
+  "fieldTypesIncompatible": "Aucun champ compatible disponible.",
+  "layerNotSelected": "Aucune couche sélectionnée pour renseigner les champs.",
+  "loadingFields": "Chargement des champs",
+  "noSearchResults": "Aucun champ correspondant n’a été trouvé.",
+  "requiredErrorLabelDefault": "Un champ",
+  "requiredErrorMessage": "Ce paramètre est obligatoire.",
+  "selectFieldPicklistHeading": "Sélectionner un champ",
+  "selectOkBtnText": "Sélectionner"
+}

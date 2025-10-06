@@ -1,0 +1,6 @@
+{
+  "header": "Chọn biến số",
+  "noFound": "Không tìm thấy biến số tương thích nào",
+  "nodeValue": "Giá trị: ${val}",
+  "search": "Tìm kiếm các biến số"
+}

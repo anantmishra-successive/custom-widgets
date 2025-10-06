@@ -1,0 +1,1 @@
+System.register([],(function(a){return{execute:function(){a({_widgetLabel:"Tampilkan Urutan",_widgetDescription:"Widget untuk menampilkan urutan gambar yang tumpang tindih dalam layer citra.",selectLayers:"Pilih layer",noLayersTip:"Tidak ada Layer Citra yang ditampilkan saat ini.",openSettingPanelTip:"Silakan buka panel pengaturan widget untuk memperbarui konfigurasi."})}}}));

@@ -1,0 +1,32 @@
+{
+  "done": "Hotovo",
+  "attributesHeading": "Stĺpce",
+  "searchFields": "Stĺpce pre vyhľadávanie",
+  "numberFieldsSelected": "${number} vybraných",
+  "sort": "Zoradiť",
+  "default": "Predvolené",
+  "displayName": "Názov na zobrazenie",
+  "type": "Typ",
+  "fieldName": "Názov stĺpca",
+  "addField": "Pridať stĺpec",
+  "attributesFormatting": {
+    "done": "Hotovo",
+    "formattingOptions": "Možnosti formátovania",
+    "manageField": "Spravovať pole",
+    "multipleSelection": "Viacnásobný výber (${number})",
+    "selectCommon": "Vyberte bežné dátové typy",
+    "displayName": "Názov na zobrazenie",
+    "significantDigits": "Signifikantné číslice",
+    "decimalPlaces": "Desatinné miesta",
+    "showThousandsSeparator": "Zobraziť oddeľovač tisícov",
+    "dateFormat": "Formát dátumu",
+    "showTime": "Zobraziť čas",
+    "timeFormat": "Formát času",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Odstrániť pole",
+    "deleteFields": "Odstrániť polia"
+  }
+}

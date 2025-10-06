@@ -1,0 +1,32 @@
+{
+  "done": "Atlikta",
+  "attributesHeading": "Laukai",
+  "searchFields": "Paieškos laukai",
+  "numberFieldsSelected": "${number} pasirinkta",
+  "sort": "Rūšiuoti",
+  "default": "Numatytasis",
+  "displayName": "Pavadinimas rodymui",
+  "type": "Tipas",
+  "fieldName": "Lauko pavadinimas",
+  "addField": "Pridėti laukelį",
+  "attributesFormatting": {
+    "done": "Atlikta",
+    "formattingOptions": "Formatavimo parinktys",
+    "manageField": "Tvarkyti lauką",
+    "multipleSelection": "Keli pasirinkimai (${number})",
+    "selectCommon": "Pasirinkti dažnus duomenų tipus",
+    "displayName": "Pavadinimas rodymui",
+    "significantDigits": "Svarbūs skaitmenys",
+    "decimalPlaces": "Dešimtainės dalys",
+    "showThousandsSeparator": "Rodyti tūkstančių skirtuką",
+    "dateFormat": "Datos formatas",
+    "showTime": "Rodyti laiką",
+    "timeFormat": "Laiko formatas",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Ištrinti lauką",
+    "deleteFields": "Ištrinti laukus"
+  }
+}

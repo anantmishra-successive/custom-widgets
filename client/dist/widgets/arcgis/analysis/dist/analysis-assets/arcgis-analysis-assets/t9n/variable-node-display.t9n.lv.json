@@ -1,0 +1,5 @@
+{
+  "disconnect": "Pārtraukt savienojumu ar mainīgo",
+  "variableNode": "Mainīgā mezgls",
+  "variableValue": "Vērtība: ${val}"
+}

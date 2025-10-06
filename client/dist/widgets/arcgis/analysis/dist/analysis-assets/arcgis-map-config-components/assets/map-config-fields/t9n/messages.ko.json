@@ -1,0 +1,32 @@
+{
+  "done": "완료",
+  "attributesHeading": "필드",
+  "searchFields": "검색 필드",
+  "numberFieldsSelected": "${number}개 선택됨",
+  "sort": "정렬",
+  "default": "기본",
+  "displayName": "디스플레이 이름",
+  "type": "유형",
+  "fieldName": "필드 이름",
+  "addField": "필드 추가",
+  "attributesFormatting": {
+    "done": "완료",
+    "formattingOptions": "형식 지정 옵션",
+    "manageField": "필드 관리",
+    "multipleSelection": "여러 항목 선택(${number}개)",
+    "selectCommon": "공통 데이터 유형 선택",
+    "displayName": "디스플레이 이름",
+    "significantDigits": "유효 자릿수",
+    "decimalPlaces": "소수 자릿수",
+    "showThousandsSeparator": "1,000단위 구분 기호 표시",
+    "dateFormat": "날짜 형식",
+    "showTime": "시간 표시",
+    "timeFormat": "시간 형식",
+    "shortTime": "오후 6:00",
+    "longTime": "오후 6:00",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "필드 삭제",
+    "deleteFields": "필드 삭제"
+  }
+}

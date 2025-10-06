@@ -1,0 +1,32 @@
+{
+  "done": "Fertig",
+  "attributesHeading": "Felder",
+  "searchFields": "Suchfelder",
+  "numberFieldsSelected": "${number} ausgewählt",
+  "sort": "Sortieren",
+  "default": "Standard",
+  "displayName": "Anzeigename",
+  "type": "Typ",
+  "fieldName": "Feldname",
+  "addField": "Feld hinzufügen",
+  "attributesFormatting": {
+    "done": "Fertig",
+    "formattingOptions": "Formatierungsoptionen",
+    "manageField": "Feld verwalten",
+    "multipleSelection": "Mehrfachauswahl (${number})",
+    "selectCommon": "Gängige Datentypen auswählen",
+    "displayName": "Anzeigename",
+    "significantDigits": "Signifikante Stellen",
+    "decimalPlaces": "Dezimalstellen",
+    "showThousandsSeparator": "Tausender-Trennzeichen anzeigen",
+    "dateFormat": "Datumsformat",
+    "showTime": "Zeit anzeigen",
+    "timeFormat": "Zeitformat",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Feld löschen",
+    "deleteFields": "Felder löschen"
+  }
+}

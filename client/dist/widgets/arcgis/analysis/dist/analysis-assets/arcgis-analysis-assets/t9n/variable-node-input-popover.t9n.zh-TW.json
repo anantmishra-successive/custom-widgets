@@ -1,0 +1,6 @@
+{
+  "header": "選擇變數",
+  "noFound": "找不到相容的變數",
+  "nodeValue": "值: ${val}",
+  "search": "搜尋變數"
+}

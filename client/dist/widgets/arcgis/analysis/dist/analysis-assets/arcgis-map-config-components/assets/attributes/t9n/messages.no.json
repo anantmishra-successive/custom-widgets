@@ -1,0 +1,32 @@
+{
+  "done": "Ferdig",
+  "attributesHeading": "Felter",
+  "searchFields": "Søkefelter",
+  "numberFieldsSelected": "${number} valgt",
+  "sort": "Sorter",
+  "default": "Standard",
+  "displayName": "Visningsnavn",
+  "type": "Type",
+  "fieldName": "Visningsnavn",
+  "addField": "Legg til felt",
+  "attributesFormatting": {
+    "done": "Ferdig",
+    "formattingOptions": "Formateringsalternativer",
+    "manageField": "Administrer felt",
+    "multipleSelection": "Flere valg (${number})",
+    "selectCommon": "Velg vanlige datatyper",
+    "displayName": "Visningsnavn",
+    "significantDigits": "Signifikante sifre",
+    "decimalPlaces": "Desimaler",
+    "showThousandsSeparator": "Vis tusenskilletegn",
+    "dateFormat": "Datoformat",
+    "showTime": "Vis tid",
+    "timeFormat": "Klokkeslettformat",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Slett felt",
+    "deleteFields": "Slett felter"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "disconnect": "変数から切断",
+  "variableNode": "変数ノード",
+  "variableValue": "値: ${val}"
+}

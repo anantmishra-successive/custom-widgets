@@ -1,0 +1,5 @@
+{
+  "disconnect": "与变量断开连接",
+  "variableNode": "变量节点",
+  "variableValue": "值：${val}"
+}

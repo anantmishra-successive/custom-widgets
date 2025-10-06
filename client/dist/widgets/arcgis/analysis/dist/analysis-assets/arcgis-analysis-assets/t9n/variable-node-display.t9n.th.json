@@ -1,0 +1,5 @@
+{
+  "disconnect": "ตัดการเชื่อมต่อจากตัวแปร",
+  "variableNode": "โหนดตัวแปร",
+  "variableValue": "ค่า: ${val}"
+}

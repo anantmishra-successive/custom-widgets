@@ -1,0 +1,14 @@
+{
+  "name": "offline-map-area",
+  "label": "Offline Map Area",
+  "platform": "EXB",
+  "type": "widget",
+  "version": "1.18.0",
+  "exbVersion": "1.18.0",
+  "author": "Anant Mishra",
+  "description": "Manage Offline Map Areas (create, update, refresh, recreate, delete).",
+  "properties": {
+    "hasSettingPage": true,
+    "supportMap": true
+  }
+}

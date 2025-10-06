@@ -1,0 +1,387 @@
+/* General container for the widget */
+.offline-map-area-widget {
+  padding: 1rem; /* Tailwind: p-4 */
+  background-color: #ffffff; /* Tailwind: bg-white */
+  border-radius: 0.5rem; /* Tailwind: rounded-lg */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Tailwind: shadow-sm */
+  border: 1px solid #e5e7eb; /* Tailwind: border */
+  max-width: 24rem; /* Tailwind: max-w-sm */
+  margin-left: auto; /* Tailwind: mx-auto */
+  margin-right: auto;
+}
+
+/* Flex container for headers and buttons */
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem; /* Tailwind: mb-4 */
+}
+
+/* Back button */
+.back-button {
+  display: flex;
+  align-items: center;
+  color: #4b5563; /* Tailwind: text-gray-600 */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  transition: color 0.2s ease;
+}
+
+.back-button:hover {
+  color: #1f2937; /* Tailwind: hover:text-gray-800 */
+}
+
+/* SVG icons */
+.icon {
+  width: 1rem; /* Tailwind: w-4 */
+  height: 1rem; /* Tailwind: h-4 */
+  margin-right: 0.25rem; /* Tailwind: mr-1 */
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* Widget title */
+.widget-title {
+  font-size: 1.125rem; /* Tailwind: text-lg */
+  font-weight: 600; /* Tailwind: font-semibold */
+  color: #111827; /* Tailwind: text-gray-900 */
+}
+
+/* Loading spinner */
+.spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2rem; /* Tailwind: py-8 */
+  padding-bottom: 2rem;
+}
+
+.spinner-circle {
+  animation: spin 1s linear infinite;
+  border-radius: 9999px; /* Tailwind: rounded-full */
+  height: 2rem; /* Tailwind: h-8 */
+  width: 2rem; /* Tailwind: w-8 */
+  border: 2px solid transparent;
+  border-bottom-color: #2563eb; /* Tailwind: border-blue-600 */
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Error message container */
+.error-container {
+  margin-bottom: 1rem; /* Tailwind: mb-4 */
+  padding: 0.75rem; /* Tailwind: p-3 */
+  background-color: #fef2f2; /* Tailwind: bg-red-50 */
+  border: 1px solid #fee2e2; /* Tailwind: border-red-200 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+}
+
+.error-text {
+  color: #dc2626; /* Tailwind: text-red-600 */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+}
+
+.error-close-button {
+  color: #f87171; /* Tailwind: text-red-400 */
+  transition: color 0.2s ease;
+}
+
+.error-close-button:hover {
+  color: #dc2626; /* Tailwind: hover:text-red-600 */
+}
+
+/* Map select dropdown */
+.select-label {
+  display: block;
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  font-weight: 500; /* Tailwind: font-medium */
+  color: #374151; /* Tailwind: text-gray-700 */
+  margin-bottom: 0.25rem; /* Tailwind: mb-1 */
+}
+
+.select-input {
+  width: 100%;
+  padding: 0.5rem 0.75rem; /* Tailwind: px-3 py-2 */
+  border: 1px solid #d1d5db; /* Tailwind: border-gray-300 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.select-input:focus {
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #3b82f6; /* Tailwind: focus:ring-2 focus:ring-blue-500 */
+}
+
+/* Area list container */
+.area-list {
+  margin-bottom: 1rem; /* Tailwind: mb-4 */
+  max-height: 16rem; /* Tailwind: max-h-64 */
+  overflow-y: auto;
+  space-y: 0.5rem; /* Tailwind: space-y-2 */
+}
+
+.area-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem; /* Tailwind: p-3 */
+  background-color: #f9fafb; /* Tailwind: bg-gray-50 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+}
+
+.area-title {
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  font-weight: 500; /* Tailwind: font-medium */
+  color: #111827; /* Tailwind: text-gray-900 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.area-details {
+  font-size: 0.75rem; /* Tailwind: text-xs */
+  color: #6b7280; /* Tailwind: text-gray-500 */
+}
+
+.no-areas-text {
+  color: #6b7280; /* Tailwind: text-gray-500 */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  text-align: center;
+  padding-top: 1rem; /* Tailwind: py-4 */
+  padding-bottom: 1rem;
+}
+
+/* Action buttons */
+.action-button {
+  padding: 0.25rem; /* Tailwind: p-1 */
+  transition: color 0.2s ease;
+}
+
+.action-button.view {
+  color: #2563eb; /* Tailwind: text-blue-600 */
+}
+
+.action-button.view:hover {
+  color: #1e40af; /* Tailwind: hover:text-blue-800 */
+}
+
+.action-button.remove {
+  color: #f87171; /* Tailwind: text-red-400 */
+}
+
+.action-button.remove:hover {
+  color: #dc2626; /* Tailwind: hover:text-red-600 */
+}
+
+/* Primary button (Create New Area, Save) */
+.btn-primary {
+  flex: 1;
+  background-color: #2563eb; /* Tailwind: bg-blue-600 */
+  color: #ffffff; /* Tailwind: text-white */
+  padding: 0.5rem 1rem; /* Tailwind: px-4 py-2 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  font-weight: 500; /* Tailwind: font-medium */
+  text-align: center;
+  transition: background-color 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #1e40af; /* Tailwind: hover:bg-blue-700 */
+}
+
+.btn-primary:disabled {
+  background-color: #d1d5db; /* Tailwind: disabled:bg-gray-300 */
+  cursor: not-allowed; /* Tailwind: disabled:cursor-not-allowed */
+}
+
+/* Secondary button (Clear All, Cancel) */
+.btn-secondary {
+  padding: 0.5rem 0.75rem; /* Tailwind: px-3 py-2 */
+  color: #4b5563; /* Tailwind: text-gray-600 */
+  border: 1px solid #d1d5db; /* Tailwind: border-gray-300 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  font-weight: 500; /* Tailwind: font-medium */
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background-color: #f3f4f6; /* Tailwind: hover:bg-gray-50 */
+}
+
+.btn-secondary.red {
+  color: #dc2626; /* Tailwind: text-red-600 */
+  border-color: #fee2e2; /* Tailwind: border-red-200 */
+}
+
+.btn-secondary.red:hover {
+  background-color: #fef2f2; /* Tailwind: hover:bg-red-50 */
+}
+
+/* Package list */
+.package-list {
+  space-y: 0.5rem; /* Tailwind: space-y-2 */
+  max-height: 16rem; /* Tailwind: max-h-64 */
+  overflow-y: auto;
+}
+
+.package-item {
+  padding: 0.75rem; /* Tailwind: p-3 */
+  background-color: #f9fafb; /* Tailwind: bg-gray-50 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+}
+
+.package-title {
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  font-weight: 500; /* Tailwind: font-medium */
+  color: #111827; /* Tailwind: text-gray-900 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.package-details {
+  font-size: 0.75rem; /* Tailwind: text-xs */
+  color: #6b7280; /* Tailwind: text-gray-500 */
+}
+
+.package-status {
+  display: inline-block;
+  padding: 0.25rem 0.5rem; /* Tailwind: px-2 py-1 */
+  font-size: 0.75rem; /* Tailwind: text-xs */
+  border-radius: 9999px; /* Tailwind: rounded-full */
+  margin-top: 0.25rem; /* Tailwind: mt-1 */
+}
+
+.package-status.ready {
+  background-color: #dcfce7; /* Tailwind: bg-green-100 */
+  color: #15803d; /* Tailwind: text-green-800 */
+}
+
+.package-status.processing {
+  background-color: #fefce8; /* Tailwind: bg-yellow-100 */
+  color: #a16207; /* Tailwind: text-yellow-800 */
+}
+
+.package-status.other {
+  background-color: #f3f4f6; /* Tailwind: bg-gray-100 */
+  color: #374151; /* Tailwind: text-gray-800 */
+}
+
+.refresh-button {
+  padding: 0.5rem; /* Tailwind: p-2 */
+  color: #2563eb; /* Tailwind: text-blue-600 */
+  transition: color 0.2s ease;
+}
+
+.refresh-button:hover {
+  color: #1e40af; /* Tailwind: hover:text-blue-800 */
+}
+
+.refresh-button:disabled {
+  opacity: 0.5; /* Tailwind: disabled:opacity-50 */
+}
+
+/* Input field for area name */
+.input-field {
+  width: 100%;
+  padding: 0.5rem 0.75rem; /* Tailwind: px-3 py-2 */
+  border: 1px solid #d1d5db; /* Tailwind: border-gray-300 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.input-field:focus {
+  border-color: transparent;
+  box-shadow: 0 0 0 2px #3b82f6; /* Tailwind: focus:ring-2 focus:ring-blue-500 */
+}
+
+/* Draw mode buttons */
+.draw-mode-button {
+  flex: 1;
+  padding: 0.5rem 0.75rem; /* Tailwind: px-3 py-2 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+  font-size: 0.875rem; /* Tailwind: text-sm */
+  font-weight: 500; /* Tailwind: font-medium */
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.draw-mode-button.active {
+  background-color: #2563eb; /* Tailwind: bg-blue-600 */
+  color: #ffffff; /* Tailwind: text-white */
+}
+
+.draw-mode-button.inactive {
+  background-color: #f3f4f6; /* Tailwind: bg-gray-100 */
+  color: #374151; /* Tailwind: text-gray-700 */
+}
+
+.draw-mode-button.inactive:hover {
+  background-color: #e5e7eb; /* Tailwind: hover:bg-gray-200 */
+}
+
+.draw-mode-button:disabled {
+  background-color: #d1d5db; /* Tailwind: bg-gray-300 */
+  color: #6b7280; /* Tailwind: text-gray-500 */
+  cursor: not-allowed;
+}
+
+/* Notification containers */
+.notification-container {
+  padding: 0.75rem; /* Tailwind: p-3 */
+  border-radius: 0.375rem; /* Tailwind: rounded-md */
+}
+
+.notification-container.yellow {
+  background-color: #fefce8; /* Tailwind: bg-yellow-50 */
+  border: 1px solid #fef08a; /* Tailwind: border-yellow-200 */
+}
+
+.notification-container.green {
+  background-color: #dcfce7; /* Tailwind: bg-green-50 */
+  border: 1px solid #86efac; /* Tailwind: border-green-200 */
+}
+
+.notification-container.blue {
+  background-color: #eff6ff; /* Tailwind: bg-blue-50 */
+  border: 1px solid #bfdbfe; /* Tailwind: border-blue-200 */
+}
+
+.notification-text {
+  font-size: 0.875rem; /* Tailwind: text-sm */
+}
+
+.notification-text.yellow {
+  color: #854d0e; /* Tailwind: text-yellow-800 */
+}
+
+.notification-text.green {
+  color: #15803d; /* Tailwind: text-green-800 */
+}
+
+.notification-text.blue {
+  color: #1e40af; /* Tailwind: text-blue-800 */
+}
+
+/* Flex gap containers */
+.flex-gap-2 {
+  display: flex;
+  gap: 0.5rem; /* Tailwind: gap-2 */
+}
+
+.flex-gap-1 {
+  display: flex;
+  gap: 0.25rem; /* Tailwind: gap-1 */
+}

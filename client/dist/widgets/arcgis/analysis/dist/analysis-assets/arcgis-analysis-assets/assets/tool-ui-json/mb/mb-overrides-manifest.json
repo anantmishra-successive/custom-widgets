@@ -1,0 +1,21 @@
+{
+  "overrides": [
+    "aggregatepoints",
+    "calculatecompositeindex",
+    "createbuffers",
+    "createdrivetimeareas",
+    "dissolveboundaries",
+    "enrichlayer",
+    "filterbyattribute",
+    "findhotspots",
+    "findoutliers",
+    "findpointclusters",
+    "findsimilarlocations",
+    "generatetessellations",
+    "interpolatepoints",
+    "joinfeatures",
+    "mergelayers",
+    "summarizenearby",
+    "summarizewithin"
+  ]
+}

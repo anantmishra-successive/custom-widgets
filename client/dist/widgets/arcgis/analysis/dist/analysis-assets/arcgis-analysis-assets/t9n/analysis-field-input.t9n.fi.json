@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Kenttiä ei voi ladata.",
+  "fieldTypesIncompatible": "Yhteensopivia kenttiä ei ole käytettävissä.",
+  "layerNotSelected": "Kenttien täyttämiseen ei ole valittu karttatasoa.",
+  "loadingFields": "Ladataan kenttiä",
+  "noSearchResults": "Vastaavia kenttiä ei löytynyt.",
+  "requiredErrorLabelDefault": "Kenttä",
+  "requiredErrorMessage": "Tämä parametri on pakollinen.",
+  "selectFieldPicklistHeading": "Valitse kenttä",
+  "selectOkBtnText": "Valitse"
+}

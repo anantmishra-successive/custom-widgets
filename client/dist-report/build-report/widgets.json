@@ -1,0 +1,158 @@
+{
+  "entrypoints": {
+    "widgets/custom_edit/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/custom_edit/dist/runtime/widget",
+          "names": [
+            "widgets/custom_edit/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./jimu-icons/outlined/editor/plus.tsx",
+            "./jimu-icons/outlined/editor/search.tsx",
+            "./jimu-icons/outlined/suggested/info.tsx",
+            "./jimu-icons/outlined/suggested/warning.tsx",
+            "./jimu-icons/svg/outlined/editor/plus.svg",
+            "./jimu-icons/svg/outlined/editor/search.svg",
+            "./jimu-icons/svg/outlined/suggested/info.svg",
+            "./jimu-icons/svg/outlined/suggested/warning.svg",
+            "./your-extensions/widgets/custom_edit/icon.svg",
+            "./your-extensions/widgets/custom_edit/src/config.ts",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/edit-item-ds.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/edit-list-ds.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/editor-component.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/empty-placeholder.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/feature-form-buttons.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/feature-form-component.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/feature-form-confirm.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/feature-form-header.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/feature-form-list.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/feature-form-select.tsx",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/use-editor.ts",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/use-feature-form.ts",
+            "./your-extensions/widgets/custom_edit/src/runtime/components/utils.ts",
+            "./your-extensions/widgets/custom_edit/src/runtime/translations/default.ts",
+            "./your-extensions/widgets/custom_edit/src/runtime/widget.tsx",
+            "./your-extensions/widgets/custom_edit/src/utils/index.ts",
+            "./your-extensions/widgets/custom_edit/src/version-manager.ts"
+          ]
+        }
+      ]
+    },
+    "widgets/custom_edit/dist/tools/app-config-operations": {
+      "chunks": [
+        {
+          "id": "widgets/custom_edit/dist/tools/app-config-operations",
+          "names": [
+            "widgets/custom_edit/dist/tools/app-config-operations"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/custom_edit/src/tools/app-config-operations.ts"
+          ]
+        }
+      ]
+    },
+    "widgets/custom_edit/dist/data-actions/edit": {
+      "chunks": [
+        {
+          "id": "widgets/custom_edit/dist/data-actions/edit",
+          "names": [
+            "widgets/custom_edit/dist/data-actions/edit"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/custom_edit/src/config.ts",
+            "./your-extensions/widgets/custom_edit/src/data-actions/edit.ts"
+          ]
+        }
+      ]
+    },
+    "widgets/custom_edit/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/custom_edit/dist/setting/setting",
+          "names": [
+            "widgets/custom_edit/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./jimu-icons/outlined/application/click.tsx",
+            "./jimu-icons/outlined/editor/add-folder.tsx",
+            "./jimu-icons/outlined/editor/plus.tsx",
+            "./jimu-icons/outlined/editor/trash.tsx",
+            "./jimu-icons/outlined/suggested/info.tsx",
+            "./jimu-icons/svg/outlined/application/click.svg",
+            "./jimu-icons/svg/outlined/editor/add-folder.svg",
+            "./jimu-icons/svg/outlined/editor/close.svg",
+            "./jimu-icons/svg/outlined/editor/plus.svg",
+            "./jimu-icons/svg/outlined/editor/trash.svg",
+            "./jimu-icons/svg/outlined/suggested/info.svg",
+            "./your-extensions/widgets/custom_edit/src/config.ts",
+            "./your-extensions/widgets/custom_edit/src/setting/components/editor-general.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/editor-map-selector.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/editor-map.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/editor-snapping.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/empty-placeholder.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/feature-form-ds.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/feature-form-general.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/feature-form-list.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/feature-form-setting.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/layer-config-capability.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/layer-config-field.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/layer-config.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/components/utils.ts",
+            "./your-extensions/widgets/custom_edit/src/setting/setting.tsx",
+            "./your-extensions/widgets/custom_edit/src/setting/translations/default.ts",
+            "./your-extensions/widgets/custom_edit/src/utils/index.ts"
+          ]
+        }
+      ]
+    },
+    "widgets/offline-map-area/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/offline-map-area/dist/runtime/widget",
+          "names": [
+            "widgets/offline-map-area/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/offline-map-area/src/runtime/style1.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/offline-map-area/src/runtime/style1.css",
+            "./your-extensions/widgets/offline-map-area/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/offline-map-area/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/offline-map-area/dist/setting/setting",
+          "names": [
+            "widgets/offline-map-area/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/offline-map-area/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    }
+  },
+  "chunks": [],
+  "errors": [],
+  "warnings": [],
+  "outputPath": "/home/anant.mishra/Desktop/fp_widgets/client/dist",
+  "publicPath": "",
+  "version": "5.101.3"
+}

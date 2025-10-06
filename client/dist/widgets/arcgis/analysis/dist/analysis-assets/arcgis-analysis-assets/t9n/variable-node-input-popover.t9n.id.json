@@ -1,0 +1,6 @@
+{
+  "header": "Pilih variabel",
+  "noFound": "Tidak ditemukan variabel yang kompatibel",
+  "nodeValue": "Nilai: ${val}",
+  "search": "Cari variabel"
+}

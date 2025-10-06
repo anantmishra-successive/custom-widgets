@@ -1,0 +1,32 @@
+{
+  "done": "Udført",
+  "attributesHeading": "Felter",
+  "searchFields": "Søgefelter",
+  "numberFieldsSelected": "${number} valgt",
+  "sort": "Sortér",
+  "default": "Standard",
+  "displayName": "Vis navn",
+  "type": "Type",
+  "fieldName": "Feltnavn",
+  "addField": "Tilføj felt",
+  "attributesFormatting": {
+    "done": "Udført",
+    "formattingOptions": "Formateringsindstillinger",
+    "manageField": "Administrer felt",
+    "multipleSelection": "Flere valg (${number})",
+    "selectCommon": "Vælg almindelige datatyper",
+    "displayName": "Vis navn",
+    "significantDigits": "Signifikante cifre",
+    "decimalPlaces": "Decimalpladser",
+    "showThousandsSeparator": "Vis tusindtalsseparator",
+    "dateFormat": "Datoformat",
+    "showTime": "Vis klokkeslæt",
+    "timeFormat": "Tidsformat",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Slet felt",
+    "deleteFields": "Slet felter"
+  }
+}

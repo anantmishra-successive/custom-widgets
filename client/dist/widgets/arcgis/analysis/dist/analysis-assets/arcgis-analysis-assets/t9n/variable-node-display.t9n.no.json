@@ -1,0 +1,5 @@
+{
+  "disconnect": "Koble fra variabel",
+  "variableNode": "Variabelmodus",
+  "variableValue": "Verdi: ${val}"
+}

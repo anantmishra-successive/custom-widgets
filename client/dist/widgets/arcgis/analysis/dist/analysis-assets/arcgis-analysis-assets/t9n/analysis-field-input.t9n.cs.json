@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Pole se nedaří načíst.",
+  "fieldTypesIncompatible": "Nejsou k dispozici žádná kompatibilní pole.",
+  "layerNotSelected": "Není vybrána žádná vrstva pro vyplnění polí.",
+  "loadingFields": "Načítání polí",
+  "noSearchResults": "Nebyla nalezena žádná odpovídající pole.",
+  "requiredErrorLabelDefault": "Pole",
+  "requiredErrorMessage": "Tento parametr je povinný.",
+  "selectFieldPicklistHeading": "Vybrat pole",
+  "selectOkBtnText": "Vybrat"
+}

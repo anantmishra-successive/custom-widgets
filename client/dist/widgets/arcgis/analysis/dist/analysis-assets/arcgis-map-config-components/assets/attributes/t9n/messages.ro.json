@@ -1,0 +1,32 @@
+{
+  "done": "Gata",
+  "attributesHeading": "Câmpuri",
+  "searchFields": "Câmpuri de căutare",
+  "numberFieldsSelected": "${number} selectat",
+  "sort": "Sortare",
+  "default": "Implicit",
+  "displayName": "Nume de afișare",
+  "type": "Tip",
+  "fieldName": "Nume câmp",
+  "addField": "Adăugare câmp",
+  "attributesFormatting": {
+    "done": "Gata",
+    "formattingOptions": "Opțiuni de formatare",
+    "manageField": "Gestionare câmp",
+    "multipleSelection": "Selecție multiplă (${number})",
+    "selectCommon": "Selectați tipuri de date comune",
+    "displayName": "Nume de afișare",
+    "significantDigits": "Caractere semnificative",
+    "decimalPlaces": "Zecimale",
+    "showThousandsSeparator": "Arată separator mii",
+    "dateFormat": "Format dată",
+    "showTime": "Afișare oră",
+    "timeFormat": "Format oră",
+    "shortTime": "6:00 p.m.",
+    "longTime": "6:00:00 p.m.",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Ștergere câmp",
+    "deleteFields": "Ștergere câmpuri"
+  }
+}

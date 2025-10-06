@@ -1,0 +1,6 @@
+{
+  "header": "Pasirinkite kintamąjį",
+  "noFound": "Suderinamų kintamųjų nerasta",
+  "nodeValue": "Reikšmė: ${val}",
+  "search": "Ieškoti kintamųjų"
+}

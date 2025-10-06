@@ -1,0 +1,32 @@
+{
+  "done": "Terminé",
+  "attributesHeading": "Champs",
+  "searchFields": "Rechercher des champs",
+  "numberFieldsSelected": "${number} sélectionné(s)",
+  "sort": "Trier",
+  "default": "Par défaut",
+  "displayName": "Nom d’affichage",
+  "type": "Type",
+  "fieldName": "Nom de champ",
+  "addField": "Ajouter un champ",
+  "attributesFormatting": {
+    "done": "Terminé",
+    "formattingOptions": "Options de mise en forme",
+    "manageField": "Gérer le champ",
+    "multipleSelection": "Sélection multiple (${number})",
+    "selectCommon": "Sélectionner des types de données courants",
+    "displayName": "Nom d’affichage",
+    "significantDigits": "Chiffres significatifs",
+    "decimalPlaces": "Décimales",
+    "showThousandsSeparator": "Afficher le séparateur de milliers",
+    "dateFormat": "Format de date",
+    "showTime": "Afficher l’heure",
+    "timeFormat": "Format de l’heure",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Supprimer le champ",
+    "deleteFields": "Supprimer les champs"
+  }
+}

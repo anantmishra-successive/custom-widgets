@@ -1,0 +1,32 @@
+{
+  "done": "Τέλος",
+  "attributesHeading": "Πεδία",
+  "searchFields": "Πεδία αναζήτησης",
+  "numberFieldsSelected": "${number} επιλεγμένες",
+  "sort": "Ταξινόμηση",
+  "default": "Προεπιλεγμένη ρύθμιση",
+  "displayName": "Εμφανιζόμενο όνομα",
+  "type": "Τύπος",
+  "fieldName": "Όνομα πεδίου",
+  "addField": "Προσθήκη πεδίου",
+  "attributesFormatting": {
+    "done": "Τέλος",
+    "formattingOptions": "Επιλογές μορφοποίησης",
+    "manageField": "Διαχείριση πεδίου",
+    "multipleSelection": "Πολλαπλή επιλογή (${number})",
+    "selectCommon": "Επιλογή συνηθισμένων τύπων δεδομένων",
+    "displayName": "Εμφανιζόμενο όνομα",
+    "significantDigits": "Σημαντικά ψηφία",
+    "decimalPlaces": "Δεκαδικά ψηφία",
+    "showThousandsSeparator": "Εμφάνιση διαχωριστικού χιλιάδων",
+    "dateFormat": "Μορφότυπος ημερομηνίας",
+    "showTime": "Εμφάνιση ώρας",
+    "timeFormat": "Μορφότυπος ώρας",
+    "shortTime": "6:00 μ.μ.",
+    "longTime": "6:00:00 μ.μ.",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Διαγραφή πεδίου",
+    "deleteFields": "Διαγραφή πεδίων"
+  }
+}

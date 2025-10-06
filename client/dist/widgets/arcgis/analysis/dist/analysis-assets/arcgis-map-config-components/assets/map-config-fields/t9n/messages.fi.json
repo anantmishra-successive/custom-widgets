@@ -1,0 +1,32 @@
+{
+  "done": "Valmis",
+  "attributesHeading": "Kentät",
+  "searchFields": "Hakukentät",
+  "numberFieldsSelected": "${number} valittu",
+  "sort": "Lajittele",
+  "default": "Oletusarvo",
+  "displayName": "Näyttönimi",
+  "type": "Tyyppi",
+  "fieldName": "Kentän nimi",
+  "addField": "Lisää kenttä",
+  "attributesFormatting": {
+    "done": "Valmis",
+    "formattingOptions": "Muotoiluvaihtoehdot",
+    "manageField": "Hallinnoi kenttää",
+    "multipleSelection": "Monivalinta (${number})",
+    "selectCommon": "Valitse yleiset tietotyypit",
+    "displayName": "Näyttönimi",
+    "significantDigits": "Merkitsevät numerot",
+    "decimalPlaces": "Desimaalit",
+    "showThousandsSeparator": "Näytä tuhaterotin",
+    "dateFormat": "Päivämäärän muoto",
+    "showTime": "Näytä aika",
+    "timeFormat": "Ajan muoto",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Poista kenttä",
+    "deleteFields": "Poista kentät"
+  }
+}

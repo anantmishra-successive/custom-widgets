@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Imposibil de încărcat câmpuri.",
+  "fieldTypesIncompatible": "Nu există câmpuri compatibile disponibile.",
+  "layerNotSelected": "Nu a fost selectat niciun strat tematic pentru a popula câmpurile.",
+  "loadingFields": "Încărcare câmpuri",
+  "noSearchResults": "Nu au fost găsite câmpuri asociate.",
+  "requiredErrorLabelDefault": "Un câmp",
+  "requiredErrorMessage": "Acest parametru este obligatoriu.",
+  "selectFieldPicklistHeading": "Selectare câmp",
+  "selectOkBtnText": "Selectare"
+}

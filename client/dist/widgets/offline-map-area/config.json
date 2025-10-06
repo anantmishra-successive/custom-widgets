@@ -1,0 +1,27 @@
+{
+  "refreshArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/RefreshMapAreaPackage/submitJob",
+  "createArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/CreateMapArea/submitJob",
+  "setupArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/SetupMapArea/submitJob",
+  "GetAllOfflineAreas": "{0}sharing/rest/content/items/{1}/relatedItems?relationshipType=Area2Package&direction=forward&f=json&token={2}",
+  "GetOfflineAreaById": "{0}sharing/rest/content/items/{1}/relatedItems?relationshipType=Area2Package&direction=forward&f=json&token={2}",
+  "GetLayersbyWebMapId": "{0}sharing/rest/content/items/{1}/data?f=json&token={2}",
+  "GetGeometry": "{0}sharing/rest/content/users/{1}/items/{2}/resources/{3}?f=json&token={4}",
+  "setUpMapAreaJobStatus": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/CreateMapArea/jobs/{0}?f=json&token={1}",
+  "GetMapAreaItemId": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/CreateMapArea/jobs/{0}/results/out_service_url?f=json&token={1}",
+  "statusSetupMapArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/SetupMapArea/jobs/{0}?f=json&token={1}",
+  "refreshMapOfflineArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/RefreshMapAreaPackage/jobs/{0}?f=json&token={1}",
+  "editOfflineMapArea": "{0}sharing/rest/content/users/{1}/items/{2}/update",
+  "deleteOfflineArea": "{0}sharing/rest/content/users/{1}/deleteItems",
+  "SqlGeoLite": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkM2LjM0IDIgNSAzLjM0IDUgNUM1IDYuNjYgNi4zNCA4IDggOEM5LjY2IDggMTEgNi42NiAxMSA1QzExIDMuMzQgOS42NiAyIDggMloiIGZpbGw9IiM0Qzc2QjciLz4KPHBhdGggZD0iTTggMTBDNS43OSAxMCA0IDExLjc5IDQgMTRIMTJDMTIgMTEuNzkgMTAuMjEgMTAgOCAxMFoiIGZpbGw9IiM0Qzc2QjciLz4KPC9zdmc+",
+  "VectorTile": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMkgxNFYxNEgyVjJaIiBzdHJva2U9IiM0Qzc2QjciIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4=",
+  "RasterTile": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjNEM3NkI3Ii8+Cjwvc3ZnPg==",
+  "FeatureServices": [
+    {
+      "url": "",
+      "layers": [],
+      "layerQueries": {}
+    }
+  ],
+  "tileServices": [],
+  "intervalTime": 300000
+}

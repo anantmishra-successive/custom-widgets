@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Kan ikke indlæse felter.",
+  "fieldTypesIncompatible": "Ingen kompatible felter tilgængelige.",
+  "layerNotSelected": "Der er ikke valgt nogen lag til at udfylde felterne.",
+  "loadingFields": "Indlæser felter",
+  "noSearchResults": "Ingen matchende felter blev fundet.",
+  "requiredErrorLabelDefault": "Et felt",
+  "requiredErrorMessage": "Denne parameter er påkrævet.",
+  "selectFieldPicklistHeading": "Vælg felt",
+  "selectOkBtnText": "Vælg"
+}

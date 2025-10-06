@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Välju ei saa laadida.",
+  "fieldTypesIncompatible": "Ühilduvaid välju pole saadaval.",
+  "layerNotSelected": "Väljade asustamiseks pole kihte valitud.",
+  "loadingFields": "Väljade laadimine",
+  "noSearchResults": "Vastavaid välju ei leitud.",
+  "requiredErrorLabelDefault": "Väli",
+  "requiredErrorMessage": "See parameeter on nõutav.",
+  "selectFieldPicklistHeading": "Valige väli",
+  "selectOkBtnText": "Vali"
+}

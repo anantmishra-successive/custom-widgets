@@ -1,0 +1,32 @@
+{
+  "done": "تم",
+  "attributesHeading": "حقول",
+  "searchFields": "حقول البحث",
+  "numberFieldsSelected": "تم تحديد ${number}",
+  "sort": "فرز",
+  "default": "الافتراضي",
+  "displayName": "اسم العرض",
+  "type": "النوع",
+  "fieldName": "اسم الحقل",
+  "addField": "إضافة حقل",
+  "attributesFormatting": {
+    "done": "تم",
+    "formattingOptions": "خيارات التنسيق",
+    "manageField": "إدارة الحقل",
+    "multipleSelection": "اختيار متعدد (${number})",
+    "selectCommon": "تحديد أنوع البيانات الشائعة",
+    "displayName": "اسم العرض",
+    "significantDigits": "أرقام هامة",
+    "decimalPlaces": "الخانات العشرية",
+    "showThousandsSeparator": "إظهار فاصل الآلاف",
+    "dateFormat": "تنسيق التاريخ",
+    "showTime": "إظهار الوقت",
+    "timeFormat": "تنسيق الوقت",
+    "shortTime": "6:00 مساءً",
+    "longTime": "6:00:00 مساءً",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "حذف الحقل",
+    "deleteFields": "حذف الحقول"
+  }
+}

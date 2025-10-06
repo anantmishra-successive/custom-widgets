@@ -1,0 +1,6 @@
+{
+  "header": "Selecionar variável",
+  "noFound": "Não foram encontradas quaisquer variáveis compatíveis",
+  "nodeValue": "Valor: ${val}",
+  "search": "Pesquisar variáveis"
+}

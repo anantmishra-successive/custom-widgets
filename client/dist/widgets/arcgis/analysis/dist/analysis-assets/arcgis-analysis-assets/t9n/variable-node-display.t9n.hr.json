@@ -1,0 +1,5 @@
+{
+  "disconnect": "Prekini vezu s varijablom",
+  "variableNode": "Čvor varijable",
+  "variableValue": "Vrijednost: ${val}"
+}

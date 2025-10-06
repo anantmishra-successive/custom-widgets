@@ -1,0 +1,32 @@
+{
+  "done": "Klar",
+  "attributesHeading": "Fält",
+  "searchFields": "Sökfält",
+  "numberFieldsSelected": "${number} har valts",
+  "sort": "Sortera",
+  "default": "Standard",
+  "displayName": "Visningsnamn",
+  "type": "Typ",
+  "fieldName": "Fältnamn",
+  "addField": "Lägg till fält",
+  "attributesFormatting": {
+    "done": "Klar",
+    "formattingOptions": "Formateringsalternativ",
+    "manageField": "Hantera fält",
+    "multipleSelection": "Flerval (${number})",
+    "selectCommon": "Välj vanliga datatyper",
+    "displayName": "Visningsnamn",
+    "significantDigits": "Signifikanta siffror",
+    "decimalPlaces": "Decimaler",
+    "showThousandsSeparator": "Visa tusentalsavgränsare",
+    "dateFormat": "Datumformat",
+    "showTime": "Visa tid",
+    "timeFormat": "Tidsformat",
+    "shortTime": "6.00 EM",
+    "longTime": "6.00.00 EM",
+    "shortTime24": "18.00",
+    "longTime24": "18.00.00",
+    "deleteField": "Ta bort fält",
+    "deleteFields": "Ta bort fält"
+  }
+}

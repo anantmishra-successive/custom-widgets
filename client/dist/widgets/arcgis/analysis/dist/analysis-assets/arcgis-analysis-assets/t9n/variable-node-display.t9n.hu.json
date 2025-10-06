@@ -1,0 +1,5 @@
+{
+  "disconnect": "A változóhoz való kapcsolódás megszüntetése",
+  "variableNode": "Változó csomópont",
+  "variableValue": "Érték: ${val}"
+}

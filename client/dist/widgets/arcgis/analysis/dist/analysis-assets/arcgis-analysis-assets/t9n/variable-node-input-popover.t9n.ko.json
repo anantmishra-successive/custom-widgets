@@ -1,0 +1,6 @@
+{
+  "header": "변수 선택",
+  "noFound": "호환되는 변수가 없음",
+  "nodeValue": "값: ${val}",
+  "search": "변수 검색"
+}

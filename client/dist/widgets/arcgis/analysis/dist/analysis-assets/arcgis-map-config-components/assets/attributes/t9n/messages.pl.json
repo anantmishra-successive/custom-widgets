@@ -1,0 +1,32 @@
+{
+  "done": "Gotowe",
+  "attributesHeading": "Pola",
+  "searchFields": "Pola wyszukiwania",
+  "numberFieldsSelected": "Wybrano ${number}",
+  "sort": "Sortuj",
+  "default": "Domyślne",
+  "displayName": "Wyświetlana nazwa",
+  "type": "Typ",
+  "fieldName": "Nazwa pola",
+  "addField": "Dodaj pole",
+  "attributesFormatting": {
+    "done": "Gotowe",
+    "formattingOptions": "Opcje formatowania",
+    "manageField": "Zarządzaj polem",
+    "multipleSelection": "Wybór wielokrotny (${number})",
+    "selectCommon": "Wybierz popularne typy danych",
+    "displayName": "Wyświetlana nazwa",
+    "significantDigits": "Cyfry znaczące",
+    "decimalPlaces": "Miejsca dziesiętne",
+    "showThousandsSeparator": "Pokaż separatory tysięcy",
+    "dateFormat": "Format daty",
+    "showTime": "Pokaż czas",
+    "timeFormat": "Format czasu",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Usuń pole",
+    "deleteFields": "Usuń pola"
+  }
+}

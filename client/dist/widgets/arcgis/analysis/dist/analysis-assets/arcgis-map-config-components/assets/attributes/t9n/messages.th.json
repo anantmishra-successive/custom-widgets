@@ -1,0 +1,32 @@
+{
+  "done": "สำเร็จ",
+  "attributesHeading": "ฟิลด์",
+  "searchFields": "ค้นหาฟิลด์",
+  "numberFieldsSelected": "${number} รายการที่เลือก",
+  "sort": "เรียงลำดับ",
+  "default": "ค่าตั้งต้น",
+  "displayName": "ชื่อที่แสดง",
+  "type": "ประเภท",
+  "fieldName": "ชื่อฟิลด์",
+  "addField": "เพิ่มฟิลด์",
+  "attributesFormatting": {
+    "done": "สำเร็จ",
+    "formattingOptions": "ตัวเลือกการจัดรูปแบบ",
+    "manageField": "จัดการฟิลด์",
+    "multipleSelection": "เลือกหลายรายการ (${number})",
+    "selectCommon": "เลือกประเภทข้อมูลทั่วไป",
+    "displayName": "ชื่อที่แสดง",
+    "significantDigits": "หน่วยที่สำคัญ",
+    "decimalPlaces": "ตำแหน่งทศนิยม",
+    "showThousandsSeparator": "แสดงตัวคั่นหลักพัน",
+    "dateFormat": "รูปแบบวันที่",
+    "showTime": "แสดงเวลา",
+    "timeFormat": "รูปแบบเวลา",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "ลบฟิลด์",
+    "deleteFields": "ลบฟิลด์"
+  }
+}

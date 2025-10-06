@@ -1,0 +1,28 @@
+{
+  "layersConfig": [],
+  "editMode": "GEOMETRY",
+  "selfSnapping": false,
+  "featureSnapping": false,
+  "defaultSelfEnabled": false,
+  "defaultFeatureEnabled": false,
+  "defaultSnapLayers": [],
+  "tooltip": true,
+  "templateFilter": true,
+  "liveDataEditing": false,
+  "initialReshapeMode": false,
+  "relatedRecords": true,
+  "description": "",
+  "noDataMessage": "",
+  "snapSettingMode": "FLEXIBLE",
+  "zoneLayerUrl": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/35",
+  "zone2LayerUrl": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/34",
+  "technicianLayerUrl": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/44",
+  "serviceRequest": {
+    "ZoneLayer": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/35",
+    "zoneLayerUrl": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/35",
+    "Zone2Layer": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/34",
+    "zone2LayerUrl": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/34",
+    "TechnicianLayerURL": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/44",
+    "technicianLayerUrl": "https://services1.arcgis.com/rNrQIsYWvDmHbnqi/ArcGIS/rest/services/FieldSeekerDevTestService/FeatureServer/44"
+  }
+}

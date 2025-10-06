@@ -1,0 +1,6 @@
+{
+  "header": "选择变量",
+  "noFound": "未找到兼容变量",
+  "nodeValue": "值：${val}",
+  "search": "搜索变量"
+}

@@ -1,0 +1,32 @@
+{
+  "done": "Bitti",
+  "attributesHeading": "Alanlar",
+  "searchFields": "Arama alanları",
+  "numberFieldsSelected": "${number} seçili",
+  "sort": "Sırala",
+  "default": "Varsayılan",
+  "displayName": "Ekran adı",
+  "type": "Tür",
+  "fieldName": "Alan adı",
+  "addField": "Alan ekle",
+  "attributesFormatting": {
+    "done": "Bitti",
+    "formattingOptions": "Biçimlendirme seçenekleri",
+    "manageField": "Alanı yönet",
+    "multipleSelection": "Çoklu seçim (${number})",
+    "selectCommon": "Ortak veri türlerini seç",
+    "displayName": "Ekran adı",
+    "significantDigits": "Önemli basamaklar",
+    "decimalPlaces": "Ondalık basamak sayısı",
+    "showThousandsSeparator": "Binlik basamak ayırıcısını göster",
+    "dateFormat": "Tarih biçimi",
+    "showTime": "Saati göster",
+    "timeFormat": "Zaman biçimi",
+    "shortTime": "18:00",
+    "longTime": "18:00:00",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Alanı sil",
+    "deleteFields": "Alanları sil"
+  }
+}

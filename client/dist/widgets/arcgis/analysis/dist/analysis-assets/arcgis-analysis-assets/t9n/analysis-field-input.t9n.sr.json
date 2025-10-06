@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Učitavanje polja nije moguće.",
+  "fieldTypesIncompatible": "Nema dostupnih kompatibilnih polja.",
+  "layerNotSelected": "Nema sloja izabranog za popunjavanje polja.",
+  "loadingFields": "Učitavanje polja",
+  "noSearchResults": "Nije pronađeno nijedno podudarajuće polje.",
+  "requiredErrorLabelDefault": "Polje",
+  "requiredErrorMessage": "Ovaj parametar je obavezan.",
+  "selectFieldPicklistHeading": "Izaberite polje",
+  "selectOkBtnText": "Selektujte"
+}

@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Nevar ielādēt laukus.",
+  "fieldTypesIncompatible": "Nav pieejami saderīgi lauki.",
+  "layerNotSelected": "Nav atlasīts neviens slānis, lai aizpildītu laukus.",
+  "loadingFields": "Notiek lauku ielāde",
+  "noSearchResults": "Nav atrasts neviens atbilstošs lauks.",
+  "requiredErrorLabelDefault": "Lauks",
+  "requiredErrorMessage": "Šis parametrs ir obligāts.",
+  "selectFieldPicklistHeading": "Izvēlēties lauku",
+  "selectOkBtnText": "Izvēlēties"
+}

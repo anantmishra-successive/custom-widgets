@@ -1,0 +1,5 @@
+{
+  "disconnect": "Від’єднатися від змінної",
+  "variableNode": "Вузол змінної",
+  "variableValue": "Значення: ${val}"
+}

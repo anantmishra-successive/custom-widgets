@@ -1,0 +1,32 @@
+{
+  "done": "Gatavs",
+  "attributesHeading": "Lauki",
+  "searchFields": "Meklēšanas lauki",
+  "numberFieldsSelected": "Atlasīto skaits: ${number}",
+  "sort": "Kārtot",
+  "default": "Noklusējums",
+  "displayName": "Parādāmais nosaukums",
+  "type": "Veids",
+  "fieldName": "Lauka nosaukums",
+  "addField": "Pievienot lauku",
+  "attributesFormatting": {
+    "done": "Gatavs",
+    "formattingOptions": "Formatēšanas opcijas",
+    "manageField": "Pārvaldīt lauku",
+    "multipleSelection": "Vairāku atlase (${number})",
+    "selectCommon": "Atlasīt biežāk izmantojamos datu veidus",
+    "displayName": "Parādāmais nosaukums",
+    "significantDigits": "Nozīmīgie skaitļi",
+    "decimalPlaces": "Cipari aiz komata",
+    "showThousandsSeparator": "Rādīt tūkstošu atdalītāju",
+    "dateFormat": "Datuma formāts",
+    "showTime": "Rādīt laiku",
+    "timeFormat": "Laika formāts",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Dzēst lauku",
+    "deleteFields": "Dzēst laukus"
+  }
+}

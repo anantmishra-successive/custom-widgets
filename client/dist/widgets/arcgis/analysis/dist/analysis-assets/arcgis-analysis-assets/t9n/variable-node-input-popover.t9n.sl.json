@@ -1,0 +1,6 @@
+{
+  "header": "Izberi spremenljivko",
+  "noFound": "Ni najdenih združljivih spremenljivk",
+  "nodeValue": "Vrednost: ${val}",
+  "search": "Išči spremenljivke"
+}

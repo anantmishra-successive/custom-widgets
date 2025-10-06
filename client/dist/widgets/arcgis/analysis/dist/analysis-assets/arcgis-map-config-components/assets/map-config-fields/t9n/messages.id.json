@@ -1,0 +1,32 @@
+{
+  "done": "Selesai",
+  "attributesHeading": "Kolom",
+  "searchFields": "Kolom pencarian",
+  "numberFieldsSelected": "${number} dipilih",
+  "sort": "Urutkan",
+  "default": "Default",
+  "displayName": "Nama tampilan",
+  "type": "Jenis",
+  "fieldName": "Nama kolom",
+  "addField": "Tambahkan kolom",
+  "attributesFormatting": {
+    "done": "Selesai",
+    "formattingOptions": "Opsi pemformatan",
+    "manageField": "Kelola kolom",
+    "multipleSelection": "Pilihan ganda (${number})",
+    "selectCommon": "Pilih jenis data umum",
+    "displayName": "Nama tampilan",
+    "significantDigits": "Digit signifikan",
+    "decimalPlaces": "Tempat desimal",
+    "showThousandsSeparator": "Tampilkan pemisah ribuan",
+    "dateFormat": "Format tanggal",
+    "showTime": "Tampilkan waktu",
+    "timeFormat": "Format waktu",
+    "shortTime": "6:00 PM",
+    "longTime": "6:00:00 PM",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Hapus kolom",
+    "deleteFields": "Hapus kolom"
+  }
+}

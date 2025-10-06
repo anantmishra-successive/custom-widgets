@@ -1,0 +1,5 @@
+{
+  "disconnect": "Katkaise yhteys muuttujaan",
+  "variableNode": "Muuttujan solmu",
+  "variableValue": "Arvo: ${val}"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "dark",
+    "label": "Dark",
+    "uri": "builder/themes/dark/",
+    "font": {
+      "fontFamily": "Avenir Next",
+      "fontWeight": 500,
+      "color": "#fff"
+    },
+    "isNewTheme": false,
+    "manifest": {
+      "name": "dark",
+      "label": "Dark",
+      "type": "theme",
+      "font": {
+        "fontFamily": "Avenir Next",
+        "fontWeight": 500,
+        "color": "#fff"
+      },
+      "version": "1.18.0",
+      "exbVersion": "1.18.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This is the dark theme for the builder.",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  }
+]

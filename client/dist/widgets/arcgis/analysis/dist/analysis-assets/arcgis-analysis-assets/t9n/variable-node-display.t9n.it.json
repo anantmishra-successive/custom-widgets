@@ -1,0 +1,5 @@
+{
+  "disconnect": "Disconnetti da variabile",
+  "variableNode": "Nodo variabile",
+  "variableValue": "Valore: ${val}"
+}

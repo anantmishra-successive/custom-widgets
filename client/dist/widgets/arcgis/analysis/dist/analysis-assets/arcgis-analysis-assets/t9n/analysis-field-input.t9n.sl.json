@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Polj ni mogoče naložiti.",
+  "fieldTypesIncompatible": "Na voljo ni združljivih polj.",
+  "layerNotSelected": "Izbran ni noben sloj za zapolnitev polj.",
+  "loadingFields": "Nalaganje polj",
+  "noSearchResults": "Brez najdenih ujemajočih se polj.",
+  "requiredErrorLabelDefault": "Polje",
+  "requiredErrorMessage": "Ta parameter je obvezen.",
+  "selectFieldPicklistHeading": "Izberi polje",
+  "selectOkBtnText": "Izberi"
+}

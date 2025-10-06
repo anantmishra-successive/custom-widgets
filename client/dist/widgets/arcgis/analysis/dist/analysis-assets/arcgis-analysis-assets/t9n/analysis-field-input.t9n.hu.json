@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "A mezők betöltése nem sikerült.",
+  "fieldTypesIncompatible": "Nem állnak rendelkezésre kompatibilis mezők.",
+  "layerNotSelected": "Nincs kiválasztott réteg a mezők kitöltéséhez.",
+  "loadingFields": "Mezők betöltése",
+  "noSearchResults": "A rendszer nem talált egyező mezőket.",
+  "requiredErrorLabelDefault": "Egy mező",
+  "requiredErrorMessage": "Ez a paraméter kötelező.",
+  "selectFieldPicklistHeading": "Mező kiválasztása",
+  "selectOkBtnText": "Kiválasztás"
+}

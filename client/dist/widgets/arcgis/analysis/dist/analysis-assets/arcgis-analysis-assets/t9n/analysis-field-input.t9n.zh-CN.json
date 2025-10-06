@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "无法加载字段。",
+  "fieldTypesIncompatible": "没有可用的兼容字段。",
+  "layerNotSelected": "没有选择图层来填充字段。",
+  "loadingFields": "正在加载字段",
+  "noSearchResults": "未找到任何匹配的字段。",
+  "requiredErrorLabelDefault": "一个字段",
+  "requiredErrorMessage": "必需参数。",
+  "selectFieldPicklistHeading": "选择字段",
+  "selectOkBtnText": "选择"
+}

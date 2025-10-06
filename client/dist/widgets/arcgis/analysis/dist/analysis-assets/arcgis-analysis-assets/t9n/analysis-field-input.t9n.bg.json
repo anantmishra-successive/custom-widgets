@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Невъзможност за зареждане на полета.",
+  "fieldTypesIncompatible": "Няма налични съвместими полета.",
+  "layerNotSelected": "Не е избран слой за попълване на полетата.",
+  "loadingFields": "Зареждане на полета",
+  "noSearchResults": "Не са намерени съвпадащи полета.",
+  "requiredErrorLabelDefault": "Поле",
+  "requiredErrorMessage": "Този параметър е задължителен.",
+  "selectFieldPicklistHeading": "Избор на поле",
+  "selectOkBtnText": "Избор"
+}

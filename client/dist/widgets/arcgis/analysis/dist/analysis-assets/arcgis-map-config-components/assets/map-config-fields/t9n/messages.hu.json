@@ -1,0 +1,32 @@
+{
+  "done": "Kész",
+  "attributesHeading": "Mezők",
+  "searchFields": "Mezők keresése",
+  "numberFieldsSelected": "${number} kijelölve",
+  "sort": "Rendezés",
+  "default": "Alapértelmezett",
+  "displayName": "Megjelenített név",
+  "type": "Típus",
+  "fieldName": "Mező neve",
+  "addField": "Mező hozzáadása",
+  "attributesFormatting": {
+    "done": "Kész",
+    "formattingOptions": "Formázási opciók",
+    "manageField": "Mező kezelése",
+    "multipleSelection": "Többszörös kijelölés (${number})",
+    "selectCommon": "Általános adattípusok kiválasztása",
+    "displayName": "Megjelenített név",
+    "significantDigits": "Szignifikáns számjegyek",
+    "decimalPlaces": "Tizedesjegyek",
+    "showThousandsSeparator": "Ezreselválasztók megjelenítése",
+    "dateFormat": "Dátumformátum",
+    "showTime": "Idő megjelenítése",
+    "timeFormat": "Időformátum",
+    "shortTime": "6:00 du.",
+    "longTime": "6:00:00 du.",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Mező törlése",
+    "deleteFields": "Mezők törlése"
+  }
+}

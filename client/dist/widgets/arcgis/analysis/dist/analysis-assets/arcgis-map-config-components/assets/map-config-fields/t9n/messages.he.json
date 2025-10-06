@@ -1,0 +1,32 @@
+{
+  "done": "בוצע",
+  "attributesHeading": "שדות",
+  "searchFields": "שדות חיפוש",
+  "numberFieldsSelected": "נבחרו ${number}",
+  "sort": "מיין",
+  "default": "ברירת מחדל",
+  "displayName": "שם תצוגה",
+  "type": "סוג",
+  "fieldName": "שם שדה",
+  "addField": "הוסף שדה",
+  "attributesFormatting": {
+    "done": "בוצע",
+    "formattingOptions": "אפשרויות עיצוב",
+    "manageField": "נהל שדה",
+    "multipleSelection": "בחירה מרובה (${number})",
+    "selectCommon": "בחר סוגי נתונים מקובלים",
+    "displayName": "שם תצוגה",
+    "significantDigits": "ספרות משמעותיות",
+    "decimalPlaces": "ספרות עשרוניות",
+    "showThousandsSeparator": "הצג מפריד אלפים",
+    "dateFormat": "פורמט תאריך",
+    "showTime": "הצג שעה",
+    "timeFormat": "פורמט זמן",
+    "shortTime": "18:00",
+    "longTime": "18:00:00",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "מחק שדה",
+    "deleteFields": "מחק שדות"
+  }
+}

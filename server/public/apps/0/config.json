@@ -1,0 +1,248 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "4.1%",
+            "right": "3.2%",
+            "top": "1.4%",
+            "bottom": "1.3%",
+            "width": "92.7%",
+            "height": "97.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_1": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "bbox": {
+            "left": "1.4%",
+            "right": "56.0%",
+            "top": "1.9%",
+            "bottom": "0.1%",
+            "width": "42.6%",
+            "height": "98.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.18.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.18.0",
+      "label": "Map",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_1",
+        "initialMapState": null,
+        "scaleRange": null
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1"
+        }
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_2": {
+      "uri": "widgets/offline-map-area/",
+      "version": "1.18.0",
+      "label": "Offline Map Area",
+      "config": {
+        "portalUrl": "https://www.arcgis.com",
+        "GetAllOfflineAreas": "{portalUrl}/sharing/rest/content/items/{webmapId}/relatedItems?f=json&token={token}",
+        "GetGeometry": "{portalUrl}/sharing/rest/content/items/{owner}/{itemId}/data?f=json&token={token}",
+        "CreateMapArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/CreateMapArea/submitJob",
+        "GetMapAreaItemId": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/CreateMapArea/jobs/{jobId}?f=json&token={token}",
+        "SetupMapArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/SetupMapArea/submitJob",
+        "statusSetupMapArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/SetupMapArea/jobs/{jobId}?f=json&token={token}",
+        "refreshOfflineArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/RefreshMapAreaPackage/submitJob",
+        "refreshMapOfflineArea": "https://packaging.arcgis.com/arcgis/rest/services/OfflinePackaging/GPServer/RefreshMapAreaPackage/jobs/{jobId}?f=json&token={token}",
+        "editOfflineMapArea": "{portalUrl}/sharing/rest/content/users/{owner}/items/{itemId}/update",
+        "deleteOfflineArea": "{portalUrl}/sharing/rest/content/users/{owner}/items/deleteItems",
+        "GetLayersbyWebMapId": "{portalUrl}/sharing/rest/content/items/{webmapId}/data?f=json&token={token}"
+      },
+      "id": "widget_2",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://frontiergis.maps.arcgis.com"
+  },
+  "timestamp": 1757577165877,
+  "sharedThemeVariables": {
+    "header": {
+      "bg": "#474747",
+      "color": "#ff0000"
+    },
+    "body": {
+      "bg": "#c2c2c2",
+      "color": "#1a1a1a",
+      "link": "#0070ff"
+    },
+    "button": {
+      "bg": "#ffffff",
+      "color": "#ff0000"
+    },
+    "logo": {
+      "small": null
+    }
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "FieldSeekerDevTest",
+      "itemId": "e6c6a2254811480e8e4bc20a6037886e",
+      "portalUrl": "https://frontiergis.maps.arcgis.com"
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "publishTimestamp": 1757577168037
+}

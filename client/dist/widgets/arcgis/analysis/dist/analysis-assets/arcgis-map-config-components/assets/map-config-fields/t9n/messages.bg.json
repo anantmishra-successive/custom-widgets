@@ -1,0 +1,32 @@
+{
+  "done": "Готово",
+  "attributesHeading": "Полета",
+  "searchFields": "Полета за търсене",
+  "numberFieldsSelected": "${number} избрани",
+  "sort": "Сортиране",
+  "default": "По подразбиране",
+  "displayName": "Показване на име",
+  "type": "Тип",
+  "fieldName": "Име на поле",
+  "addField": "Добавяне на поле",
+  "attributesFormatting": {
+    "done": "Готово",
+    "formattingOptions": "Опции за форматиране",
+    "manageField": "Управление на поле",
+    "multipleSelection": "Множествен избор (${number})",
+    "selectCommon": "Изберете общи типове данни",
+    "displayName": "Показване на име",
+    "significantDigits": "Значими цифри",
+    "decimalPlaces": "Десетични знаци",
+    "showThousandsSeparator": "Показване на разделител за хилядни",
+    "dateFormat": "Формат на дата",
+    "showTime": "Показване на време",
+    "timeFormat": "Формат за час",
+    "shortTime": "18.00",
+    "longTime": "18:00:00",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Изтриване на поле",
+    "deleteFields": "Изтриване на полета"
+  }
+}

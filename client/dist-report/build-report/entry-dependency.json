@@ -1,0 +1,182 @@
+{
+  "nodes": [
+    {
+      "name": "widgets/offline-map-area/dist/runtime/widget",
+      "size": 111869
+    },
+    {
+      "name": "widgets/offline-map-area/dist/setting/setting",
+      "size": 3320
+    },
+    {
+      "name": "widgets/simple/dist/runtime/widget",
+      "size": 1465
+    },
+    {
+      "name": "widgets/custom_edit/dist/runtime/widget",
+      "size": 188928
+    },
+    {
+      "name": "widgets/custom_edit/dist/tools/app-config-operations",
+      "size": 2667
+    },
+    {
+      "name": "widgets/custom_edit/dist/data-actions/edit",
+      "size": 4801
+    },
+    {
+      "name": "widgets/custom_edit/dist/setting/setting",
+      "size": 106843
+    }
+  ],
+  "links": [
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "esri/Graphic"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "esri/geometry/Extent"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "esri/geometry/Polygon"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "esri/geometry/geometryEngine"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "esri/layers/GraphicsLayer"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "esri/widgets/Sketch/SketchViewModel"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/setting/setting",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/setting/setting",
+      "target": "jimu-for-builder/index"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/setting/setting",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/offline-map-area/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/simple/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/Graphic"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/core/reactiveUtils"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/form/FormTemplate"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/form/elements/FieldElement"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/form/elements/GroupElement"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/layers/FeatureLayer"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/rest/support/Query"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/widgets/Editor"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "esri/widgets/FeatureForm"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/runtime/widget",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/tools/app-config-operations",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/tools/app-config-operations",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/data-actions/edit",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/data-actions/edit",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-theme/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-ui/advanced/data-source-selector"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/custom_edit/dist/setting/setting",
+      "target": "jimu-ui/basic/list-tree"
+    }
+  ]
+}

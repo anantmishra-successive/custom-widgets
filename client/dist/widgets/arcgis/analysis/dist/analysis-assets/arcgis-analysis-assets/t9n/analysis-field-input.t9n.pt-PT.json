@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Não foi possível carregar os campos.",
+  "fieldTypesIncompatible": "Não existem campos compatíveis disponíveis.",
+  "layerNotSelected": "Nenhuma camada selecionada para preencher os campos.",
+  "loadingFields": "A carregar campos",
+  "noSearchResults": "Não foram encontrados campos correspondentes.",
+  "requiredErrorLabelDefault": "Um campo",
+  "requiredErrorMessage": "Este parâmetro é obrigatório.",
+  "selectFieldPicklistHeading": "Selecionar campo",
+  "selectOkBtnText": "Selecionar"
+}

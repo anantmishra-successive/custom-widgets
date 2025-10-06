@@ -1,0 +1,5 @@
+{
+  "disconnect": "Putuskan koneksi dari variabel",
+  "variableNode": "Node variabel",
+  "variableValue": "Nilai: ${val}"
+}

@@ -1,0 +1,5 @@
+{
+  "disconnect": "Ngắt kết nối khỏi biến số",
+  "variableNode": "Nút biến số",
+  "variableValue": "Giá trị: ${val}"
+}

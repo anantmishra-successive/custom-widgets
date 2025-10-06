@@ -1,0 +1,32 @@
+{
+  "done": "Fet",
+  "attributesHeading": "Camps",
+  "searchFields": "Camps de cerca",
+  "numberFieldsSelected": "${number} seleccionats",
+  "sort": "Ordena",
+  "default": "Per defecte",
+  "displayName": "Nom de visualització",
+  "type": "Tipus",
+  "fieldName": "Nom del camp",
+  "addField": "Afegeix un camp",
+  "attributesFormatting": {
+    "done": "Fet",
+    "formattingOptions": "Opcions de format",
+    "manageField": "Administra el camp",
+    "multipleSelection": "Selecció múltiple (${number})",
+    "selectCommon": "Seleccioneu tipus de dades habituals",
+    "displayName": "Nom de visualització",
+    "significantDigits": "Dígits importants",
+    "decimalPlaces": "Posicions decimals",
+    "showThousandsSeparator": "Mostra el separador de milers",
+    "dateFormat": "Format de data",
+    "showTime": "Mostra l'hora",
+    "timeFormat": "Format d'hora",
+    "shortTime": "6:00 p.m.",
+    "longTime": "6:00:00 p.m.",
+    "shortTime24": "18:00",
+    "longTime24": "18:00:00",
+    "deleteField": "Suprimeix el camp",
+    "deleteFields": "Suprimeix els camps"
+  }
+}

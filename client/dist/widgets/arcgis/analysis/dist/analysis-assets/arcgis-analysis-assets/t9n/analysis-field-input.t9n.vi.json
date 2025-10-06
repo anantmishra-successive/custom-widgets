@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Không thể tải các trường.",
+  "fieldTypesIncompatible": "Không có trường tương thích nào khả dụng.",
+  "layerNotSelected": "Không có lớp nào được chọn để điền dữ liệu vào trường.",
+  "loadingFields": "Đang tải các trường",
+  "noSearchResults": "Không tìm thấy trường trùng khớp.",
+  "requiredErrorLabelDefault": "Một trường",
+  "requiredErrorMessage": "Thông số này là thông tin bắt buộc.",
+  "selectFieldPicklistHeading": "Chọn trường",
+  "selectOkBtnText": "Chọn"
+}

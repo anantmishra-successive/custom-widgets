@@ -1,0 +1,5 @@
+{
+  "disconnect": "從變數中斷連線",
+  "variableNode": "變數節點",
+  "variableValue": "值: ${val}"
+}

@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Det gick inte att läsa in fält.",
+  "fieldTypesIncompatible": "Det finns inga kompatibla fält tillgängliga.",
+  "layerNotSelected": "Inget lager har valts för att fylla i fälten.",
+  "loadingFields": "Läser in fält",
+  "noSearchResults": "Inga matchande fält hittades.",
+  "requiredErrorLabelDefault": "Ett fält",
+  "requiredErrorMessage": "Denna parameter är obligatorisk.",
+  "selectFieldPicklistHeading": "Välj fält",
+  "selectOkBtnText": "Välj"
+}

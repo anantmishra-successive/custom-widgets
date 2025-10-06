@@ -1,0 +1,11 @@
+{
+  "fieldLoadingErrorText": "Nepavyko įkelti laukų.",
+  "fieldTypesIncompatible": "Nėra suderinamų laukų.",
+  "layerNotSelected": "Nepasirinkta sluoksnio užpildyti laukams.",
+  "loadingFields": "Įkeliami laukai",
+  "noSearchResults": "Atitinkančių laukų nerasta.",
+  "requiredErrorLabelDefault": "Laukas",
+  "requiredErrorMessage": "Šis parametras yra būtinas.",
+  "selectFieldPicklistHeading": "Pažymėti lauką",
+  "selectOkBtnText": "Pasirinkti"
+}

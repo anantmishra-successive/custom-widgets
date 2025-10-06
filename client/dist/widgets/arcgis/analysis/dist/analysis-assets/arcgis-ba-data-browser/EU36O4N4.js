@@ -1,0 +1,2 @@
+/*! For license information please see EU36O4N4.js.LICENSE.txt */
+import{o as t}from"./N22VDD26.js";var e=t({defaultAssetPath:"https://js.arcgis.com/4.33/data-browser/",hydratedAttribute:"hydrated"}),{customElement:o,getAssetPath:u,setAssetPath:m}=e;e.t=void 0,e.o=void 0,e.c=void 0,e.r=void 0;export{e as a,o as b,u as c};
