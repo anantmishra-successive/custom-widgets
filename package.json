@@ -2,14 +2,11 @@
   "name": "arcgis-experience-builder",
   "version": "1.0.0",
   "private": true,
- "scripts": {
-"build": "cd client && npm install && npx cross-env NODE_ENV=production webpack --mode production",
-"start": "cd server && npm install && node ./src/server.js --http_only"
-},
+  "scripts": {
+    "build": "cd client && npm install && npx cross-env NODE_ENV=production webpack --mode production",
+    "start": "cd server && npm install && node ./src/server.js --http_only"
+  },
   "engines": {
     "node": ">=18"
-  },
-  "devDependencies": {
-    "cross-env": "^7.0.3"
   }
 }
